@@ -1,1 +1,1 @@
-# DPIPE (data pipe)
+# dpipe (data pipe)
